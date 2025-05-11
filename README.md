@@ -6,7 +6,7 @@ This repository implements an end-to-end workflow to predict census-tract–leve
 
 ## Repository Structure
 
-'''
+```
 ├── data/
 │ ├── fires/ # Raw fire perimeter files (FRAP, Eaton, Palisades)
 │ ├── census_tracts/ # 2024 tract shapefile
@@ -44,7 +44,7 @@ This repository implements an end-to-end workflow to predict census-tract–leve
 │ ├── 14_create_maps_and_charts.py
 │ └── 15_render_report.Rmd
 └── README.md # This document
-'''
+```
 
 ---
 
